@@ -3,6 +3,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
 
+
 # Mapping YouTube category IDs to readable names
 CATEGORY_MAPPING = {
     "1": "Film & Animation",
