@@ -3,3 +3,4 @@ plotly
 streamlit
 google-api-python-client
 python-dotenv
+numpy
